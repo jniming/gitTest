@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
   
     NSLog(@"分支2的修改");
+    NSLog(@"分支2新增");
 }
 
 
